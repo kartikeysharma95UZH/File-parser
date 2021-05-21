@@ -1,0 +1,6 @@
+[States]
+Ready: Ready
++End: End
+
+[Transitions]
+Ready (end) End: end
